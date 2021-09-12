@@ -1,0 +1,31 @@
+{
+    "name": "GitHub Desktop Notification",
+    "description": "__MSG_description__",
+    "version": "1.0",
+    "manifest_version": 3,
+    "default_locale": "en",
+    "permissions": [
+        "storage",
+        "alarms",
+        "notifications",
+        "tabs"
+    ],
+    "host_permissions": [
+        "https://github.com/notifications"
+    ],
+    "action": {
+        "default_popup": "/src/popup/index.html",
+        "default_icon": {
+            "16": "/assets/images/icon16.png",
+            "32": "/assets/images/icon32.png",
+            "48": "/assets/images/icon48.png",
+            "128": "/assets/images/icon128.png"
+          }
+    },
+    "icons": {
+        "16": "/assets/images/icon16.png",
+        "32": "/assets/images/icon32.png",
+        "48": "/assets/images/icon48.png",
+        "128": "/assets/images/icon128.png"
+    }
+  }

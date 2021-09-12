@@ -1,0 +1,62 @@
+{
+    "description": {
+        "message": "A chrome extension that notifies your desktop of github web notifications."
+    },
+    "preparation": {
+        "message": "Preparation"
+    },
+    "preparation_li_1": {
+        "message": "Log in to github with this browser."
+    },
+    "preparation_li_2": {
+        "message": "Select notification settings from the settings page and turn on notifications to the web."
+    },
+    "preparation_li_3": {
+        "message": "Please allow the notification settings of this browser in the settings of the computer."
+    },
+    "steps": {
+        "message": "Steps"
+    },
+    "steps_li_1": {
+        "message": "Show extensions on chrome toolbar."
+    },
+    "steps_li_2": {
+        "message": "Click the icon on the toolbar and click 'START' from the popup."
+    },
+    "steps_li_3": {
+        "message": "Automatically check the notification page while this page is open. (Run every minute)"
+    },
+    "steps_li_4": {
+        "message": "If there is a new notification, give a desktop notification."
+    },
+    "steps_li_5": {
+        "message": "Click on a desktop notification to open the notification page on GitHub."
+    },
+    "remarks": {
+        "message": "Remarks"
+    },
+    "remarks_li_1": {
+        "message": "You don't need to have the GitHub notification page open in your browser."
+    },
+    "remarks_li_1_li_1": {
+        "message": "Fetching to notification page in the background."
+    },
+    "remarks_li_1_li_2": {
+        "message": "If you don't have a tab that has a notification page open, clicking on a desktop notification will open the page in a new tab."
+    },
+    "remarks_li_1_li_3": {
+        "message": "If you have a tab that has a notification page open, click on desktop notification to activate that tab."
+    },
+    "remarks_li_2": {
+        "message": "The process ends when this page is closed."
+    },
+    "remarks_li_3": {
+        "message": "You can see the processing log in the developer mode console. (press F12)"
+    },
+    "notes": {
+        "message": "Notes"
+    },
+    "notes_li_1": {
+        "message": "Notifications may not work if the GitHub notification page is redesigned. (I will fix it as soon as I notice it ...)"
+    }
+}
