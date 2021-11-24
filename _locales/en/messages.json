@@ -36,10 +36,10 @@
         "message": "Remarks"
     },
     "remarks_li_1": {
-        "message": "You don't need to have the GitHub notification page open in your browser."
+        "message": "Fetching to notification page in the background."
     },
     "remarks_li_1_li_1": {
-        "message": "Fetching to notification page in the background."
+        "message": "You don't need to have the GitHub notification page open in your browser."
     },
     "remarks_li_1_li_2": {
         "message": "If you don't have a tab that has a notification page open, clicking on a desktop notification will open the page in a new tab."

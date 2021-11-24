@@ -1,18 +1,18 @@
 {
     "description": {
-        "message": "GitHubのNotificationページの更新をデスクトップに通知するChrome拡張機能です。"
+        "message": "GitHubのNotificationsページの更新をデスクトップに通知するChrome拡張機能です。"
     },
     "preparation": {
         "message": "事前準備"
     },
     "preparation_li_1": {
-        "message": "このブラウザでGitHubにログインしておいて下さい。"
+        "message": "ブラウザでGitHubにログインしておいて下さい。"
     },
     "preparation_li_2": {
         "message": "設定ページの通知設定でWEBへの通知をオンにしてください。"
     },
     "preparation_li_3": {
-        "message": "パソコン本体の設定で本ブラウザの通知設定を許可しておいてください。"
+        "message": "パソコン本体の設定でブラウザの通知設定を許可しておいてください。"
     },
     "steps": {
         "message": "手順"
@@ -30,22 +30,22 @@
         "message": "もし新しい通知があれば、デスクトップ通知を行います。"
     },
     "steps_li_5": {
-        "message": "デスクトップ通知をクリックするとGitHubの通知ページを開きます。"
+        "message": "デスクトップ通知をクリックするとGitHubのNotificationsページを開きます。"
     },
     "remarks": {
         "message": "備考"
     },
     "remarks_li_1": {
-        "message": "ブラウザでGitHubの通知ページを開いておく必要はありません。"
+        "message": "Notificationsページへのチェックはバックグラウンドで実行されます。"
     },
     "remarks_li_1_li_1": {
-        "message": "通知ページへのチェックはバックグラウンドで実行されます。"
+        "message": "ブラウザでGitHubのNotificationsページを開いておく必要はありません。"
     },
     "remarks_li_1_li_2": {
-        "message": "GitHubの通知ページを開いていない場合、デスクトップ通知をクリックすると新しいタブで通知ページを開きます。"
+        "message": "GitHubのNotificationsページを開いていない場合、デスクトップ通知をクリックすると新しいタブでNotificationsページを開きます。"
     },
     "remarks_li_1_li_3": {
-        "message": "GitHubの通知ページを開いている場合、デスクトップ通知をクリックすると通知ページを開いているタブをアクティブにします。"
+        "message": "GitHubのNotificationsページを開いている場合、デスクトップ通知をクリックするとNotificationsページを開いているタブをアクティブにします。"
     },
     "remarks_li_2": {
         "message": "このページを閉じると通知チェックは終了します。"
@@ -57,6 +57,6 @@
         "message": "注意事項"
     },
     "notes_li_1": {
-        "message": "GitHubの通知ページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します...）"
+        "message": "GitHubのNotificationsページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します...）"
     }
 }
