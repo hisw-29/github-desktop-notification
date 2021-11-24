@@ -1,12 +1,11 @@
 # github-desktop-notification
 GitHubのNotificationsページの更新をデスクトップに通知するChrome拡張機能です。
-A chrome extension that notifies your desktop of github web notifications
 
 ### 事前準備
 1. ブラウザでGitHubにログインしておいて下さい。
 1. 設定ページの通知設定でWEBへの通知をオンにしてください。
 1. パソコン本体の設定でブラウザの通知設定を許可しておいてください。
-### 手順　steps
+### 手順
 1. Chromeのツールバーに本拡張機能を表示してください。
 1. ツールバーのアイコンをクリックし、ポップアップから'START'をクリック。
 1. 上記ページを開いている間、自動で通知をチェックしに行きます。（毎分実行）
