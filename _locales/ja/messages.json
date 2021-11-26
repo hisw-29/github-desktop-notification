@@ -24,7 +24,7 @@
         "message": "ツールバーのアイコンをクリックし、ポップアップから'START'をクリック。"
     },
     "steps_li_3": {
-        "message": "本ページを開いている間、自動で通知をチェックしに行きます。（毎分実行）"
+        "message": "本ページを開いている間、自動で通知をチェックしに行きます。（毎分実行）※タブにピン留めして小さくしておくと邪魔になりにくいです"
     },
     "steps_li_4": {
         "message": "もし新しい通知があれば、デスクトップ通知を行います。"
@@ -38,15 +38,6 @@
     "remarks_li_1": {
         "message": "Notificationsページへのチェックはバックグラウンドで実行されます。"
     },
-    "remarks_li_1_li_1": {
-        "message": "ブラウザでGitHubのNotificationsページを開いておく必要はありません。"
-    },
-    "remarks_li_1_li_2": {
-        "message": "GitHubのNotificationsページを開いていない場合、デスクトップ通知をクリックすると新しいタブでNotificationsページを開きます。"
-    },
-    "remarks_li_1_li_3": {
-        "message": "GitHubのNotificationsページを開いている場合、デスクトップ通知をクリックするとNotificationsページを開いているタブをアクティブにします。"
-    },
     "remarks_li_2": {
         "message": "このページを閉じると通知チェックは終了します。"
     },
@@ -57,6 +48,9 @@
         "message": "注意事項"
     },
     "notes_li_1": {
+        "message": "Notificationsページの各通知をクリックして詳細を見に行っている状態だとうまく動きません。（この場合、Notificationsページに戻っておく必要があります）"
+    },
+    "notes_li_2": {
         "message": "GitHubのNotificationsページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します...）"
     }
 }

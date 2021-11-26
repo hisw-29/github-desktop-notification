@@ -24,7 +24,7 @@
         "message": "Click the icon on the toolbar and click 'START' from the popup."
     },
     "steps_li_3": {
-        "message": "Automatically check the notification page while this page is open. (Run every minute)"
+        "message": "Automatically check the notification page while this page is open. (Run every minute) *If you pin it to a tab and keep it small, it will not get in the way."
     },
     "steps_li_4": {
         "message": "If there is a new notification, give a desktop notification."
@@ -38,15 +38,6 @@
     "remarks_li_1": {
         "message": "Fetching to notification page in the background."
     },
-    "remarks_li_1_li_1": {
-        "message": "You don't need to have the GitHub notification page open in your browser."
-    },
-    "remarks_li_1_li_2": {
-        "message": "If you don't have a tab that has a notification page open, clicking on a desktop notification will open the page in a new tab."
-    },
-    "remarks_li_1_li_3": {
-        "message": "If you have a tab that has a notification page open, click on desktop notification to activate that tab."
-    },
     "remarks_li_2": {
         "message": "The process ends when this page is closed."
     },
@@ -57,6 +48,9 @@
         "message": "Notes"
     },
     "notes_li_1": {
+        "message": "It doesn't work if you click each notification on the Notifications page to see the details. (In this case, you need to go back to the Notifications page)"
+    },
+    "notes_li_2": {
         "message": "Notifications may not work if the GitHub notification page is redesigned. (I will fix it as soon as I notice it ...)"
     }
 }
