@@ -75,7 +75,7 @@ chrome.notifications.onClicked.addListener(async (notificationId) => {
 
   if (null === targetTabId) {
     // Open a new tab to display the page
-    chrome.tabs.create({url: TARGET_URL});
+    chrome.tabs.create({url: config.target_url});
   } else {
     // Activate the target tab
     const updateProperties = {

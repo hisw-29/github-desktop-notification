@@ -38,6 +38,16 @@
     "remarks_li_1": {
         "message": "Fetching to notification page in the background."
     },
+    "remarks_li_1_li_1": {
+        "message": "You don't need to have the GitHub notification page open in your browser."
+    },
+    "remarks_li_1_li_2": {
+        "message": "If you don't have a tab that has a notification page open, clicking on a desktop notification will open the page in a new tab."
+    },
+    "remarks_li_1_li_3": {
+        "message": "If you have a tab that has a notification page open, click on desktop notification to activate that tab."
+    },
+
     "remarks_li_2": {
         "message": "The process ends when this page is closed."
     },
@@ -48,9 +58,15 @@
         "message": "Notes"
     },
     "notes_li_1": {
-        "message": "It doesn't work if you click each notification on the Notifications page to see the details. (In this case, you need to go back to the Notifications page)"
+        "message": "Notifications may not work if the GitHub notification page is redesigned. (I will fix it as soon as I notice it)"
     },
-    "notes_li_2": {
-        "message": "Notifications may not work if the GitHub notification page is redesigned. (I will fix it as soon as I notice it ...)"
+    "links": {
+        "message": "Links"
+    },
+    "links_li_1": {
+        "message": "GitHub"
+    },
+    "links_li_2": {
+        "message": "chrome web store"
     }
 }

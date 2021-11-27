@@ -9,7 +9,7 @@
         "message": "ブラウザでGitHubにログインしておいて下さい。"
     },
     "preparation_li_2": {
-        "message": "設定ページの通知設定でWEBへの通知をオンにしてください。"
+        "message": "GitHub設定ページの通知設定でWEBへの通知をオンにしてください。"
     },
     "preparation_li_3": {
         "message": "パソコン本体の設定でブラウザの通知設定を許可しておいてください。"
@@ -38,6 +38,15 @@
     "remarks_li_1": {
         "message": "Notificationsページへのチェックはバックグラウンドで実行されます。"
     },
+    "remarks_li_1_li_1": {
+        "message": "ブラウザでGitHubのNotificationsページを開いておく必要はありません。"
+    },
+    "remarks_li_1_li_2": {
+        "message": "GitHubのNotificationsページを開いていない場合、デスクトップ通知をクリックすると新しいタブでNotificationsページを開きます。"
+    },
+    "remarks_li_1_li_3": {
+        "message": "GitHubのNotificationsページを開いている場合、デスクトップ通知をクリックするとNotificationsページを開いているタブをアクティブにします。"
+    },
     "remarks_li_2": {
         "message": "このページを閉じると通知チェックは終了します。"
     },
@@ -48,9 +57,15 @@
         "message": "注意事項"
     },
     "notes_li_1": {
-        "message": "Notificationsページの各通知をクリックして詳細を見に行っている状態だとうまく動きません。（この場合、Notificationsページに戻っておく必要があります）"
+        "message": "GitHubのNotificationsページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します）"
     },
-    "notes_li_2": {
-        "message": "GitHubのNotificationsページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します...）"
+    "links": {
+        "message": "リンク"
+    },
+    "links_li_1": {
+        "message": "GitHub"
+    },
+    "links_li_2": {
+        "message": "chromeウェブストア"
     }
 }
