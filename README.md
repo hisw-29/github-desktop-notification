@@ -1,5 +1,5 @@
 # github-desktop-notification
-GitHubのNotificationsページの更新をデスクトップに通知するChrome拡張機能です。
+GitHubの[Notificationsページ](https://github.com/notifications)の更新をデスクトップに通知するChrome拡張機能です。
 
 ### 事前準備
 1. ブラウザでGitHubにログインしておいて下さい。
@@ -22,5 +22,5 @@ GitHubのNotificationsページの更新をデスクトップに通知するChro
 1. GitHubのNotificationsページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します）
 
 ### リンク
-- [GitHub](https://github.com/hisw-29/github-desktop-notification)
+- [ソースコード（GitHub）](https://github.com/hisw-29/github-desktop-notification)
 - [chromeウェブストア](https://chrome.google.com/webstore/detail/github-desktop-notificati/iecnfgcbbajncgiianhoaongialneaam)
