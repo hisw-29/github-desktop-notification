@@ -3,7 +3,7 @@ GitHubのNotificationsページの更新をデスクトップに通知するChro
 
 ### 事前準備
 1. ブラウザでGitHubにログインしておいて下さい。
-1. GitHub設定ページ（https://github.com/settings/notifications）の通知設定でWEBへの通知をオンにしてください。
+1. [GitHub設定ページ](https://github.com/settings/notifications)の通知設定でWEBへの通知をオンにしてください。
 1. パソコン本体の設定でブラウザの通知設定を許可しておいてください。
 ### 手順
 1. Chromeのツールバーに本拡張機能を表示してください。
@@ -22,5 +22,5 @@ GitHubのNotificationsページの更新をデスクトップに通知するChro
 1. GitHubのNotificationsページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します）
 
 ### リンク
-1. [GitHub](https://github.com/hisw-29/github-desktop-notification)
-1. [chromeウェブストア](https://chrome.google.com/webstore/detail/github-desktop-notificati/iecnfgcbbajncgiianhoaongialneaam)
+- [GitHub](https://github.com/hisw-29/github-desktop-notification)
+- [chromeウェブストア](https://chrome.google.com/webstore/detail/github-desktop-notificati/iecnfgcbbajncgiianhoaongialneaam)
