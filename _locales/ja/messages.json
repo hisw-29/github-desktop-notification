@@ -9,7 +9,10 @@
         "message": "ブラウザでGitHubにログインしておいて下さい。"
     },
     "preparation_li_2": {
-        "message": "GitHub設定ページの通知設定でWEBへの通知をオンにしてください。（こうするとGitHubのNotificationsページに通知が表示されます）"
+        "message": "GitHub設定ページの通知設定でWEBへの通知をオンにしてください。"
+    },
+    "preparation_li_2_li_1": {
+        "message": "こうするとGitHubのNotificationsページに通知が表示されます"
     },
     "preparation_li_3": {
         "message": "パソコン本体の設定でブラウザの通知設定を許可しておいてください。"
@@ -38,19 +41,19 @@
     "remarks_li_1": {
         "message": "Notificationsページへのチェックはバックグラウンドで実行されます。"
     },
-    "remarks_li_1_li_1": {
+    "remarks_li_2": {
         "message": "ブラウザでGitHubのNotificationsページを開いておく必要はありません。"
     },
-    "remarks_li_1_li_2": {
-        "message": "GitHubのNotificationsページを開いていない場合、デスクトップ通知をクリックすると新しいタブでNotificationsページを開きます。"
+    "remarks_li_2_li_1": {
+        "message": "開いていない場合、デスクトップ通知をクリックすると新しいタブでNotificationsページを開きます。"
     },
-    "remarks_li_1_li_3": {
-        "message": "GitHubのNotificationsページを開いている場合、デスクトップ通知をクリックするとNotificationsページを開いているタブをアクティブにします。"
-    },
-    "remarks_li_2": {
-        "message": "このページを閉じると通知チェックは終了します。"
+    "remarks_li_2_li_2": {
+        "message": "開いている場合、デスクトップ通知をクリックするとNotificationsページを開いているタブをアクティブにします。"
     },
     "remarks_li_3": {
+        "message": "このページを閉じると通知チェックは終了します。"
+    },
+    "remarks_li_4": {
         "message": "開発者ツールのConsoleにて実行ログを確認できます。（F12で開く）"
     },
     "notes": {

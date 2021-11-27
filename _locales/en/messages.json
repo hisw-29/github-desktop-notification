@@ -1,15 +1,18 @@
 {
     "description": {
-        "message": "A chrome extension that notifies your desktop of github web notifications."
+        "message": "A chrome extension that notifies your desktop of GitHub web notifications."
     },
     "preparation": {
         "message": "Preparation"
     },
     "preparation_li_1": {
-        "message": "Log in to github with this browser."
+        "message": "Log in to GitHub with this browser."
     },
     "preparation_li_2": {
-        "message": "Select notification settings from the settings page and turn on notifications to the web. (This will display notifications on the Notifications page on GitHub)"
+        "message": "Please turn on notifications to the WEB in the notification settings on the GitHub settings page."
+    },
+    "preparation_li_2_li_1": {
+        "message": "This will display notifications on the Notifications page on GitHub"
     },
     "preparation_li_3": {
         "message": "Please allow the notification settings of this browser in the settings of the computer."
@@ -38,20 +41,20 @@
     "remarks_li_1": {
         "message": "Fetching to notification page in the background."
     },
-    "remarks_li_1_li_1": {
+    "remarks_li_2": {
         "message": "You don't need to have the GitHub notification page open in your browser."
     },
-    "remarks_li_1_li_2": {
-        "message": "If you don't have a tab that has a notification page open, clicking on a desktop notification will open the page in a new tab."
+    "remarks_li_2_li_1": {
+        "message": "If it is not open, click Desktop Notification to open the Notifications page in a new tab."
     },
-    "remarks_li_1_li_3": {
-        "message": "If you have a tab that has a notification page open, click on desktop notification to activate that tab."
+    "remarks_li_2_li_2": {
+        "message": "If it is open, clicking Desktop Notification activates the tab that opens the Notifications page."
     },
 
-    "remarks_li_2": {
+    "remarks_li_3": {
         "message": "The process ends when this page is closed."
     },
-    "remarks_li_3": {
+    "remarks_li_4": {
         "message": "You can see the processing log in the developer mode console. (press F12)"
     },
     "notes": {
