@@ -9,7 +9,7 @@
         "message": "ブラウザでGitHubにログインしておいて下さい。"
     },
     "preparation_li_2": {
-        "message": "GitHub設定ページの通知設定でWEBへの通知をオンにしてください。"
+        "message": "GitHub設定ページの通知設定でWEBへの通知をオンにしてください。（こうするとGitHubのNotificationsページに通知が表示されます）"
     },
     "preparation_li_3": {
         "message": "パソコン本体の設定でブラウザの通知設定を許可しておいてください。"

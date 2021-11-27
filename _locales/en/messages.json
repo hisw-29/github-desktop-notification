@@ -9,7 +9,7 @@
         "message": "Log in to github with this browser."
     },
     "preparation_li_2": {
-        "message": "Select notification settings from the settings page and turn on notifications to the web."
+        "message": "Select notification settings from the settings page and turn on notifications to the web. (This will display notifications on the Notifications page on GitHub)"
     },
     "preparation_li_3": {
         "message": "Please allow the notification settings of this browser in the settings of the computer."
