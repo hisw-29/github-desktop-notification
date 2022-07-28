@@ -6,46 +6,60 @@
     <script type="module" src="./check.mjs"></script>
   </head>
   <body>
-    <h1>GitHub Desktop Notification</h1>
-    <p data-i18n-text="description"></p>
-    <h3 data-i18n-text="preparation"></h3>
-    <ul>
-      <li data-i18n-text="preparation_li_1"></li>
-      <li><span data-i18n-text="preparation_li_2"></span>
-        <ul>
-          <li data-i18n-text="preparation_li_2_li_1"></li>
-        </ul>
-      </li>
-      <li data-i18n-text="preparation_li_3"></li>
-    </ul>
-    <h3 data-i18n-text="steps"></h3>
-    <ol>
-      <li data-i18n-text="steps_li_1"></li>
-      <li data-i18n-text="steps_li_2"></li>
-      <li data-i18n-text="steps_li_3"></li>
-      <li data-i18n-text="steps_li_4"></li>
-      <li data-i18n-text="steps_li_5"></li>
-    </ol>
-    <h3 data-i18n-text="remarks"></h3>
-    <ul>
-      <li data-i18n-text="remarks_li_1"></li>
-      <li><span data-i18n-text="remarks_li_2"></span>
-        <ul>
-          <li data-i18n-text="remarks_li_2_li_1"></li>
-          <li data-i18n-text="remarks_li_2_li_2"></li>
-        </ul>
-      </li>
-      <li data-i18n-text="remarks_li_3"></li>
-      <li data-i18n-text="remarks_li_4"></li>
-    </ul>
-    <h3 data-i18n-text="notes"></h3>
-    <ul>
-      <li data-i18n-text="notes_li_1"></li>
-    </ul>
-    <h3 data-i18n-text="links"></h3>
-    <ul>
-      <li><a href="https://github.com/hisw-29/github-desktop-notification" data-i18n-text="links_li_1"></a></li>
-      <li><a href="https://chrome.google.com/webstore/detail/github-desktop-notificati/iecnfgcbbajncgiianhoaongialneaam" data-i18n-text="links_li_2"></a></li>
-    </ul>
+    <!-- header -->
+    <div>
+      <h1>GitHub Desktop Notification</h1>
+      <p data-i18n-text="description"></p>
+    </div>
+    <!-- latest check time -->
+    <div style="border: 1px solid;margin: 30px 0 50px 0;padding: 10px;">
+      <strong><span data-i18n-text="latest_check_time"></span>: <span id="latest_check_time" data-i18n-text="latest_check_time_loading"></span></strong>
+      <br />
+      <span data-i18n-text="latest_check_time_caveat"></span>
+    </div>
+    <!-- readme -->
+    <div>
+      <h3 data-i18n-text="preparation"></h3>
+      <ul>
+        <li data-i18n-text="preparation_li_1"></li>
+        <li><span data-i18n-text="preparation_li_2"></span>
+          <ul>
+            <li data-i18n-text="preparation_li_2_li_1"></li>
+          </ul>
+        </li>
+        <li data-i18n-text="preparation_li_3"></li>
+      </ul>
+      <h3 data-i18n-text="steps"></h3>
+      <ol>
+        <li data-i18n-text="steps_li_1"></li>
+        <li data-i18n-text="steps_li_2"></li>
+        <li data-i18n-text="steps_li_3"></li>
+        <li data-i18n-text="steps_li_4"></li>
+        <li data-i18n-text="steps_li_5"></li>
+      </ol>
+      <h3 data-i18n-text="remarks"></h3>
+      <ul>
+        <li data-i18n-text="remarks_li_1"></li>
+        <li><span data-i18n-text="remarks_li_2"></span>
+          <ul>
+            <li data-i18n-text="remarks_li_2_li_1"></li>
+            <li data-i18n-text="remarks_li_2_li_2"></li>
+          </ul>
+        </li>
+        <li data-i18n-text="remarks_li_3"></li>
+        <li data-i18n-text="remarks_li_4"></li>
+      </ul>
+      <h3 data-i18n-text="notes"></h3>
+      <ul>
+        <li data-i18n-text="notes_li_1" style="font-weight: bold;text-decoration: underline;"></li>
+        <li data-i18n-text="notes_li_2" style="font-weight: bold;text-decoration: underline;"></li>
+        <li data-i18n-text="notes_li_3"></li>
+      </ul>
+      <h3 data-i18n-text="links"></h3>
+      <ul>
+        <li><a href="https://github.com/hisw-29/github-desktop-notification" data-i18n-text="links_li_1"></a></li>
+        <li><a href="https://chrome.google.com/webstore/detail/github-desktop-notificati/iecnfgcbbajncgiianhoaongialneaam" data-i18n-text="links_li_2"></a></li>
+      </ul>
+    </div>
   </body>
 </html>
