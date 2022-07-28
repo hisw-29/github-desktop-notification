@@ -1,4 +1,13 @@
 {
+    "latest_check_time": {
+        "message": "Latest check date and time"
+    },
+    "latest_check_time_loading": {
+        "message": "first time running..."
+    },
+    "latest_check_time_caveat": {
+        "message": "If the check is not working, reload this screen and resume JavaScript execution."
+    },
     "description": {
         "message": "A chrome extension that notifies your desktop of GitHub web notifications."
     },
@@ -61,6 +70,12 @@
         "message": "Notes"
     },
     "notes_li_1": {
+        "message": "The check will fail if GitHub, etc., where the check is being performed is in a state that requires re-logging in, but will resume after re-logging in."
+    },
+    "notes_li_2": {
+        "message": "If this happens, reload this screen as JavaScript execution may stop, for example, when you restart your PC."
+    },
+    "notes_li_3": {
         "message": "Notifications may not work if the GitHub notification page is redesigned. (I will fix it as soon as I notice it)"
     },
     "links": {

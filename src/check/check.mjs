@@ -12,6 +12,7 @@ async function checkNotification() {
       const html = await res.text();
       const identifierList = getNotificationIdentifierList(html);
       console.log(identifierList);
+      document.getElementById('latest_check_time').innerText = new Date().toLocaleString()
       if (0 === Object.keys(identifierList).length) {
         // No update
         chrome.storage.local.set({'identifierList': {}});

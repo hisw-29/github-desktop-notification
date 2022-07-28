@@ -1,4 +1,13 @@
 {
+    "latest_check_time": {
+        "message": "最新のチェック日時"
+    },
+    "latest_check_time_loading": {
+        "message": "初回実行中..."
+    },
+    "latest_check_time_caveat": {
+        "message": "チェックが動いていない場合、この画面をリロードしてJavaScriptの実行を再開してください。"
+    },
     "description": {
         "message": "GitHubのNotificationsページの更新をデスクトップに通知するChrome拡張機能です。"
     },
@@ -60,6 +69,12 @@
         "message": "注意事項"
     },
     "notes_li_1": {
+        "message": "チェック先のGitHub等が再ログイン必要な状態になっているとチェックが失敗しますが、再ログインすると再開します。"
+    },
+    "notes_li_2": {
+        "message": "PCを再起動した際などにJavaScriptの実行が停止することがあるため、その場合はこの画面をリロードしてください。"
+    },
+    "notes_li_3": {
         "message": "GitHubのNotificationsページのデザインが変わった場合、通知がうまくいかない可能性があります。（気付き次第修正します）"
     },
     "links": {
