@@ -1,4 +1,7 @@
 {
+    "description": {
+        "message": "A chrome extension that notifies your desktop of GitHub web notifications."
+    },
     "latest_check_time": {
         "message": "Latest check date and time"
     },
@@ -8,8 +11,14 @@
     "latest_check_time_caveat": {
         "message": "If the check is not working, reload this screen and resume JavaScript execution."
     },
-    "description": {
-        "message": "A chrome extension that notifies your desktop of GitHub web notifications."
+    "target_url_description": {
+        "message": "URL to be checked (Example of multiple domains: https://xxxxx/notifications,https://yyyyy/notifications)"
+    },
+    "target_url_remarks_1": {
+        "message": "*If you are using your own domain name for organization, etc., please rewrite or add it."
+    },
+    "target_url_remarks_2": {
+        "message": "*Changes are maintained because they are stored in the browser's storage area."
     },
     "preparation": {
         "message": "Preparation"
