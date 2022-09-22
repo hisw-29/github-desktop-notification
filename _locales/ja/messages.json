@@ -1,4 +1,7 @@
 {
+    "description": {
+        "message": "GitHubのNotificationsページの更新をデスクトップに通知するChrome拡張機能です。"
+    },
     "latest_check_time": {
         "message": "最新のチェック日時"
     },
@@ -8,8 +11,14 @@
     "latest_check_time_caveat": {
         "message": "チェックが動いていない場合、この画面をリロードしてJavaScriptの実行を再開してください。"
     },
-    "description": {
-        "message": "GitHubのNotificationsページの更新をデスクトップに通知するChrome拡張機能です。"
+    "target_url_description": {
+        "message": "チェック対象URL（複数ドメインの例：https://xxxxx/notifications,https://yyyyy/notifications）"
+    },
+    "target_url_remarks_1": {
+        "message": "※organizationで独自ドメインを使っている場合等に書き換えたり追加してください"
+    },
+    "target_url_remarks_2": {
+        "message": "※変更はブラウザのstorage領域に保存されるため維持されます。"
     },
     "preparation": {
         "message": "事前準備"

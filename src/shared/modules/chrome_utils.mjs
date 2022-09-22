@@ -33,14 +33,14 @@ export async function searchTargetTabId(url) {
  * Make desktop notifications
  * @param {string} [msg=config.notification.default_msg] - Message to display in notification
  */
-export function notify(msg = config.notification.default_msg) {
+export function notify(msg, notificationId) {
   const options = {
     type: config.notification.type,
     title: config.notification.title,
     message: msg,
     iconUrl: config.notification.iconUrl,
   };
-  chrome.notifications.create(msg, options, () => {}); 
+  chrome.notifications.create(notificationId, options, () => {}); 
 }
 
 export function localizeHtmlPage() {

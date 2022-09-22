@@ -12,10 +12,20 @@
       <p data-i18n-text="description"></p>
     </div>
     <!-- latest check time -->
-    <div style="border: 1px solid;margin: 30px 0 50px 0;padding: 10px;">
-      <strong><span data-i18n-text="latest_check_time"></span>: <span id="latest_check_time" data-i18n-text="latest_check_time_loading"></span></strong>
+    <div style="border: 1px solid;margin: 30px 0 10px 0;padding: 10px;">
+      <span style="font-weight: bold; font-size: medium"><span data-i18n-text="latest_check_time"></span>: <span id="latest_check_time" data-i18n-text="latest_check_time_loading"></span></span>
       <br />
       <span data-i18n-text="latest_check_time_caveat"></span>
+    </div>
+    <!-- input target_urls -->
+    <div style="margin: 30px 0 40px 0">
+      <p style="margin-bottom: 0px">
+        <span data-i18n-text="target_url_description" style="font-weight: bold"></span><br />
+        <span data-i18n-text="target_url_remarks_1"></span><br />
+        <span data-i18n-text="target_url_remarks_2"></span>
+      </p>
+      <input type="text" id="input_target_urls" size="120">
+      <button type="button" class="btn">更新</button>
     </div>
     <!-- readme -->
     <div>
